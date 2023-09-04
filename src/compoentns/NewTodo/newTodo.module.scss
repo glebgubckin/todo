@@ -1,0 +1,39 @@
+.wrapper {
+  margin-top: 40px;
+  width: 100%;
+  padding: 20px 24px;
+  background-color: #fff;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  column-gap: 24px;
+  transition: 0.2s all linear;
+
+  &--dark {
+    background-color: #25273d;
+  }
+}
+
+.circle {
+  // With 27px width circle seems good, not for sure why
+  width: 27px;
+  height: 25px;
+  border: 1px #e3e4f1 solid;
+  border-radius: 50%;
+  background: none;
+  user-select: none;
+}
+
+.todo {
+  width: 100%;
+  font-size: 20px;
+  color: #494c6b;
+  border: none;
+  outline: 0;
+  background: none;
+  transition: 0.2s all linear;
+
+  &--dark {
+    color: #c8cbe7;
+  }
+}
