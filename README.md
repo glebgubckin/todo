@@ -16,10 +16,7 @@ npm run preview
 ```
 Приложение будет запущено по адресу *http://localhost:4173*
 ## Demo
-
-```
-[https://todo-cxxz0azj8-glebgubckin.vercel.app/](https://todo-umber-ten.vercel.app/)
-```
+[https://todo-umber-ten.vercel.app](https://todo-cxxz0azj8-glebgubckin.vercel.app)
 
 
 ## Features
